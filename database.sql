@@ -1,5 +1,3 @@
-CREATE DATABASE db_rekap_nilai_mahasiswa;
-
 USE db_rekap_nilai_mahasiswa;
 
 CREATE TABLE dosen (

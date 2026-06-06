@@ -292,27 +292,15 @@ CALL cek_jumlah_data();
 
 # Dokumentasi Program
 
-Tambahkan screenshot berikut:
-
 ### Struktur Database
-
-(Tambahkan screenshot struktur tabel dari phpMyAdmin)
 
 ### Data Mahasiswa
 
-(Tambahkan screenshot tabel mahasiswa)
-
 ### Data Nilai Praktikum
-
-(Tambahkan screenshot tabel nilai_praktikum)
 
 ### Hasil Stored Procedure rekap_semua_nilai()
 
-(Tambahkan screenshot hasil eksekusi procedure)
-
 ### Hasil Tabel log_rekap_nilai
-
-(Tambahkan screenshot tabel log_rekap_nilai)
 
 
 
